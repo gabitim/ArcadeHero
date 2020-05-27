@@ -1,8 +1,15 @@
 # Simple_2D_Arcade_Game
 
-Using SDL and C++ I created a simple Hero arcade game.
+Using SDL and C++ and following this [tutorial](https://www.youtube.com/watch?v=QQzAHcojEKg&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx) I created a simple 2d Arcade Game.
+**
 
-Demonstrating basic OOP Principles(like polymorphism), I also used Data Structures and created a platform for future scalable improvements, like more levels, more maps, Enemies;
+## Tasks:
 
+ - Demonstrating basic OOP Principles like polymorphism
+ - Using multiple Data Structures
+ - Creating a platform for future scalable improvements, like more levels, more maps, enemies
 
-
+## ScreenShots
+![](images/Game%20Window.png "Game Window")
+### Class Diagram
+![](images/UML%20Class%20diagram.png "UML Class Diagram")
