@@ -1,0 +1,23 @@
+﻿D:\programe\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (try_no_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+Entity.obj : error LNK2019: unresolved external symbol _SDL_GetTicks referenced in function "public: virtual void __thiscall Appearance::update(void)" (?update@Appearance@@UAEXXZ)
+main.obj : error LNK2001: unresolved external symbol _SDL_GetTicks
+game.obj : error LNK2019: unresolved external symbol _SDL_CreateWindow referenced in function "public: void __thiscall Game::init(char const *,int,int,bool)" (?init@Game@@QAEXPBDHH_N@Z)
+game.obj : error LNK2019: unresolved external symbol _SDL_DestroyWindow referenced in function "public: void __thiscall Game::clean(void)" (?clean@Game@@QAEXXZ)
+game.obj : error LNK2019: unresolved external symbol _SDL_PollEvent referenced in function "public: void __thiscall Game::handleEvents(void)" (?handleEvents@Game@@QAEXXZ)
+game.obj : error LNK2019: unresolved external symbol _SDL_CreateRenderer referenced in function "public: void __thiscall Game::init(char const *,int,int,bool)" (?init@Game@@QAEXPBDHH_N@Z)
+game.obj : error LNK2019: unresolved external symbol _SDL_SetRenderDrawColor referenced in function "public: void __thiscall Game::init(char const *,int,int,bool)" (?init@Game@@QAEXPBDHH_N@Z)
+game.obj : error LNK2019: unresolved external symbol _SDL_RenderClear referenced in function "public: void __thiscall Game::render(void)" (?render@Game@@QAEXXZ)
+game.obj : error LNK2019: unresolved external symbol _SDL_RenderPresent referenced in function "public: void __thiscall Game::init(char const *,int,int,bool)" (?init@Game@@QAEXPBDHH_N@Z)
+game.obj : error LNK2019: unresolved external symbol _SDL_DestroyRenderer referenced in function "public: void __thiscall Game::clean(void)" (?clean@Game@@QAEXXZ)
+game.obj : error LNK2019: unresolved external symbol _SDL_Init referenced in function "public: void __thiscall Game::init(char const *,int,int,bool)" (?init@Game@@QAEXPBDHH_N@Z)
+game.obj : error LNK2019: unresolved external symbol _SDL_Quit referenced in function "public: void __thiscall Game::clean(void)" (?clean@Game@@QAEXXZ)
+main.obj : error LNK2019: unresolved external symbol _SDL_Delay referenced in function _SDL_main
+Texture.obj : error LNK2019: unresolved external symbol _SDL_FreeSurface referenced in function "public: static struct SDL_Texture * __cdecl Texture::LoadTexture(char const *)" (?LoadTexture@Texture@@SAPAUSDL_Texture@@PBD@Z)
+Texture.obj : error LNK2019: unresolved external symbol _SDL_CreateTextureFromSurface referenced in function "public: static struct SDL_Texture * __cdecl Texture::LoadTexture(char const *)" (?LoadTexture@Texture@@SAPAUSDL_Texture@@PBD@Z)
+Texture.obj : error LNK2019: unresolved external symbol _SDL_RenderCopyEx referenced in function "public: static void __cdecl Texture::Draw(struct SDL_Texture *,struct SDL_Rect,struct SDL_Rect,enum SDL_RendererFlip)" (?Draw@Texture@@SAXPAUSDL_Texture@@USDL_Rect@@1W4SDL_RendererFlip@@@Z)
+Texture.obj : error LNK2019: unresolved external symbol _IMG_Load referenced in function "public: static struct SDL_Texture * __cdecl Texture::LoadTexture(char const *)" (?LoadTexture@Texture@@SAPAUSDL_Texture@@PBD@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+SDL2_image.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Debug\Arcade_Hero_Game.exe : fatal error LNK1120: 17 unresolved externals

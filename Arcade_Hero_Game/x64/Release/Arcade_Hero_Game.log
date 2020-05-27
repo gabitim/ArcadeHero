@@ -1,0 +1,132 @@
+﻿  Collision.cpp
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(31,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(32,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(44,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(45,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(59,1): warning C4244: '+=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(60,1): warning C4244: '+=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  Entity.cpp
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(31,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(32,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(44,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(45,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(59,1): warning C4244: '+=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(60,1): warning C4244: '+=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  game.cpp
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(31,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(32,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(44,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(45,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(59,1): warning C4244: '+=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(60,1): warning C4244: '+=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  main.cpp
+  Map.cpp
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(31,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(32,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(44,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(45,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(59,1): warning C4244: '+=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(60,1): warning C4244: '+=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  Texture.cpp
+  Generating code
+  486 of 496 functions (98.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Arcade_Hero_Game.vcxproj -> C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\x64\Release\Arcade_Hero_Game.exe

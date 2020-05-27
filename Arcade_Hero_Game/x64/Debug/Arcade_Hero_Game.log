@@ -1,0 +1,130 @@
+﻿D:\programe\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (try_no_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Collision.cpp
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(31,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(32,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(44,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(45,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(59,1): warning C4244: '+=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(60,1): warning C4244: '+=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  Entity.cpp
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(31,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(32,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(44,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(45,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(59,1): warning C4244: '+=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(60,1): warning C4244: '+=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  game.cpp
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(31,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(32,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(44,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(45,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(59,1): warning C4244: '+=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(60,1): warning C4244: '+=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  main.cpp
+  Map.cpp
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(31,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(32,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(44,20): warning C4244: '=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(45,21): warning C4244: '=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(59,1): warning C4244: '+=': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\Arcade_Hero_Game\Evolution.h(60,1): warning C4244: '+=': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  Texture.cpp
+  Generating Code...
+  LINK : C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\x64\Debug\Arcade_Hero_Game.exe not found or not built by the last incremental link; performing full link
+  Arcade_Hero_Game.vcxproj -> C:\Users\gabit\OneDrive\Desktop\SDL_C++ Game\try_no_2\x64\Debug\Arcade_Hero_Game.exe
