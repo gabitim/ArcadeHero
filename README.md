@@ -8,6 +8,7 @@ Using SDL and C++ and following this [tutorial](https://www.youtube.com/watch?v=
  - Demonstrating basic OOP Principles like polymorphism
  - Using multiple Data Structures
  - Creating a platform for future scalable improvements, like more levels, more maps, enemies
+ - Understanding basics of Game Development, Input, Update, Draw, Render.
 
 ## ScreenShots
 ![](images/Game%20Window.png "Game Window")
